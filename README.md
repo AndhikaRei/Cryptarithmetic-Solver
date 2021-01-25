@@ -16,11 +16,9 @@ Just install Python 3
 2. Langsung klik "app.py"
 3. Masukkan nama file yang berisi testcase yang ingin diuji, masukkan tanpa ekstensi
 4. Tunggu hasil keluar
-#### Cara 2 (Menggunakan cmd code editor, atau IDLE python)
-:exclamation: 1. Pastikan anda ada di direktori yang sama dengan source code "../src/{app.py}" :exclamation: 
+#### Cara 2 (Menggunakan cmd code editor)
+1. Pastikan anda ada di direktori yang sama dengan source code "../src/{app.py}" :exclamation: 
 2. Run program python sesuai cara yang code editor kalian lakukan 
-1.2 Jika menggunakan IDLE cukup klik kanan file lalu pilih edit with IDLE
-2.2 Jika menggunakan IDLE klik run module
 3. Masukkan nama file yang berisi testcase yang ingin diuji, masukkan tanpa ekstensi
 4. Tunggu hasil keluar
 
@@ -29,3 +27,4 @@ Just install Python 3
 2. Untuk contoh file testcase yang benar silahkan contoh file yang ada fi folder test
 3. Kunci jawaban beberapa testcase ada fi folder test yang bernama 'example.txt'
 4. Selamat mencoba, tips : enakan pake code editor soalnya ga langsung close hehe
+5. Kalau gabisa baca file coba liat cara 2 langkah-langkah ke-1, Mestinya aman hehe
