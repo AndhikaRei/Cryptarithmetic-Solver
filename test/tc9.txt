@@ -1,5 +1,12 @@
+<<<<<<< HEAD
       N O
     G U N
 +     N O
   ------- 
+=======
+      N O
+    G U N
++     N O
+  ------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   H U N T

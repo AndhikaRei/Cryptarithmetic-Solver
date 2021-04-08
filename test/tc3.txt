@@ -1,4 +1,10 @@
+<<<<<<< HEAD
       T I L E S
 + P U Z Z L E S
   ------------- 
+=======
+      T I L E S
++ P U Z Z L E S
+  ------------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   P I C T U R E

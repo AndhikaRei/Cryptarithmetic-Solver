@@ -1,5 +1,12 @@
+<<<<<<< HEAD
     C L O C K 
       T I C K
 +     T O C K
   ----------- 
+=======
+    C L O C K 
+      T I C K
++     T O C K
+  ----------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   P L A N E T

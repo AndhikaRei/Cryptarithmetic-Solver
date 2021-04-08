@@ -1,4 +1,10 @@
+<<<<<<< HEAD
     C O L A
 +   C O L A
   --------- 
+=======
+    C O L A
++   C O L A
+  --------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   O A S I S

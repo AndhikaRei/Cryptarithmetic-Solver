@@ -1,4 +1,10 @@
+<<<<<<< HEAD
   S E N D
 + M O R E
 --------- 
+=======
+  S E N D
++ M O R E
+--------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
 M O N E Y

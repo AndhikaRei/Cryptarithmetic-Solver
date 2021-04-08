@@ -1,5 +1,12 @@
+<<<<<<< HEAD
     D O U B L E
     D O U B L E
 +       T O I L
   ------------- 
+=======
+    D O U B L E
+    D O U B L E
++       T O I L
+  ------------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   T R O U B L E

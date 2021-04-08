@@ -1,7 +1,16 @@
+<<<<<<< HEAD
    T H R E E
    T H R E E
        T W O
        T W O
 +      O N E
   ----------- 
+=======
+   T H R E E
+   T H R E E
+       T W O
+       T W O
++      O N E
+  ----------- 
+>>>>>>> b0c2ae5c762d41f5e6f4e16d4f9fafaf693df1ee
   E L E V E N
